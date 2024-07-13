@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Header](./pic_profile)
+![Header](./img_profile.png)
 <!--
 **Ayush-n25/Ayush-n25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
