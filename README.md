@@ -1,14 +1,47 @@
 ![Header](./img_profile.png)
 <h1 align="center">Hi 👋, I'm Ayush Naik</h1>
-<h3 align="center">Passionate Developer | AWS Enthusiast | DevOps & Fullstack Explorer | Lifelong Learner & Team Collaborator</h3>
+<h3 align="center">Backend C++ Developer | AWS & DevOps Enthusiast | Full-Stack Explorer | Lifelong Learner</h3>
 
-- 🔭 I’m currently working on **AWS Sagemaker**
+---
 
-- 🌱 I’m currently learning **AWS, DevOps, MlOps, TypeScript, Nextjs**
+### 🚀 About Me
 
-- 💬 Ask me about **AWS, DevOps, MlOps ,Software Development**
+- 🔭 Currently working on the **backend of a stock exchange system in C++**  
+  (Why C++? Because performance, latency, and control matter.)
 
-- 📫 How to reach me **you can connect with me on LinkedIn**
+- 🌱 Actively deepening my knowledge in  
+  **Design Patterns, Low-Level Design (LLD), and scalable system architecture**
+
+- ⚡ Strong foundation in **Linux, Operating Systems, and DBMS**  
+  — core concepts that power real-world systems
+
+- 🧠 Passionate about writing efficient, maintainable, and high-performance code
+
+---
+
+### 💡 Tech Stack & Interests
+
+- 💻 **Languages:** C++, Python, JavaScript  
+- 🐧 **Systems:** Linux, OS Concepts  
+- ☁️ **Cloud:** AWS  
+- 🔁 **DevOps:** Docker, Jenkins  
+- 🏗 **Concepts:** Design Patterns, Low-Level Design, System Design  
+
+---
+
+### 🤝 Let’s Connect
+
+- 💬 Ask me about **C++, Design Patterns, Low-Level Design, Linux, AWS, DevOps**
+- 📫 Connect with me on **LinkedIn**
+
+---
+
+### 🔥 What Drives Me
+
+I enjoy building systems where **performance, reliability, and clean architecture** matter.  
+From low-level memory management in C++ to deploying scalable services — I love understanding how things work under the hood.
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
